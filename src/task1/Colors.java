@@ -1,3 +1,5 @@
+package task1;
+
 public enum Colors {
     RED,
     GREEN,
@@ -6,3 +8,5 @@ public enum Colors {
     BLACK,
     WHITE
 }
+
+
